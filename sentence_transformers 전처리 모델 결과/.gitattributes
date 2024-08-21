@@ -1,3 +1,1 @@
-C:/Users/samsung/Documents/GitHub/FakeNewsDetection/sentence_transformers[[:space:]]전처리[[:space:]]모델[[:space:]]결과/final_embeddings.npy filter=lfs diff=lfs merge=lfs -text
 *.npy filter=lfs diff=lfs merge=lfs -text
-“*.npy” filter=lfs diff=lfs merge=lfs -text
